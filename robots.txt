@@ -1,3 +1,5 @@
 # Allow all crawlers (https://www.robotstxt.org/robotstxt.html)
 User-agent: *
 Disallow:
+
+ https://www.catspaws25.pages.dev/robots.txt
