@@ -1,2 +1,5 @@
 https://*.pages.dev/*
-  ! X-Robots-Tag
+  X-Robots-Tag: index
+
+/*
+ X-Content-Type-Options: nosnippet
